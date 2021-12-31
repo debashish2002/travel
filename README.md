@@ -10,5 +10,5 @@ In this repository , i had created a beautiful responsive web template which is 
 3. For video background 
   --> Download any video
   --> Rename the downloded video by "Travel-video.mp4"
-  --> Copy the "Travel-video.mp4" file into Image file present in the code.
+  --> Copy the "Travel-video.mp4" file into Images folder present in the code.
   --> Now run the index.html
