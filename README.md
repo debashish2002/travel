@@ -8,7 +8,7 @@ In this repository , i had created a beautiful responsive web template which is 
 1. Copy the code
 2. Clone the code by -->  git clone < paste the code >
 3. For video background 
---> Download any video
---> Rename the downloded video by "Travel-video.mp4"
---> Copy the "Travel-video.mp4" file into Image file present in the code.
---> Now run the index.html
+  --> Download any video
+  --> Rename the downloded video by "Travel-video.mp4"
+  --> Copy the "Travel-video.mp4" file into Image file present in the code.
+  --> Now run the index.html
