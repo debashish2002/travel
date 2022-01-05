@@ -7,7 +7,7 @@ In this repository , i had created a beautiful responsive web template which is 
 # How to run
 1. Copy the code
 2. Clone the code by -->  git clone < paste the code >
-3. For video background 
+3. After cloning add a video background using following steps     
   --> Download any video
   --> Rename the downloded video by "Travel-video.mp4"
   --> Copy the "Travel-video.mp4" file into Images folder present in the code.
